@@ -1,6 +1,7 @@
 
 .oswald {
-  font-family: "Oswald";
+  font-family: Oswald;
+  colour:
 }
 
 .standard {
@@ -9,9 +10,4 @@
 
 main {
   background-color: #f1f2f2;
-}
-
-
-.oswald {
-  font-family: "Oswald";
 }
