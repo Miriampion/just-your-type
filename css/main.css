@@ -9,5 +9,16 @@
 }
 
 main {
-  background-color: #f1f2f2;
+  background-color: #f1f2f6;
+}
+
+.para {
+  color: #1b1464;
+}
+
+.box {
+  background-color: rgba(255, 255, 255, .6);
+  border-radius: 50%;
+  height: 15em;
+  width: 15em;
 }
